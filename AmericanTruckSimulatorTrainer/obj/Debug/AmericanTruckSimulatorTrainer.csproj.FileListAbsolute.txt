@@ -1,0 +1,14 @@
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\bin\Debug\AmericanTruckSimulatorTrainer.exe.config
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\bin\Debug\AmericanTruckSimulatorTrainer.exe
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\bin\Debug\AmericanTruckSimulatorTrainer.pdb
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\obj\Debug\AmericanTruckSimulatorTrainer.csprojAssemblyReference.cache
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\obj\Debug\AmericanTruckSimulatorTrainer.Form1.resources
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\obj\Debug\AmericanTruckSimulatorTrainer.Properties.Resources.resources
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\obj\Debug\AmericanTruckSimulatorTrainer.csproj.GenerateResource.cache
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\obj\Debug\AmericanTruckSimulatorTrainer.csproj.CoreCompileInputs.cache
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\obj\Debug\AmericanTruckSimulatorTrainer.exe
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\obj\Debug\AmericanTruckSimulatorTrainer.pdb
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\bin\Debug\Jupiter.dll
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\bin\Debug\Jupiter.xml
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\obj\Debug\AmericanTruckSimulatorTrainer.csproj.CopyComplete
+C:\Users\gamec\source\repos\AmericanTruckSimulatorTrainer\AmericanTruckSimulatorTrainer\obj\Debug\AmericanTruckSimulatorTrainer.Trainer.resources

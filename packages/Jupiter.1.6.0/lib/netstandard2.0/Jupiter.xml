@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jupiter</name>
+    </assembly>
+    <members>
+        <member name="T:Jupiter.MemoryModule">
+            <summary>
+            Initialises an instance capable of managing memory in a specified remote process
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.#ctor(System.Int32)">
+            <summary>
+            Initialises an instance capable of managing memory in a specified remote process
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.#ctor(System.String)">
+            <summary>
+            Initialises an instance capable of managing memory in a specified remote process
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.Dispose">
+            <summary>
+            Frees the unmanaged resources used by the instance
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.AllocateVirtualMemory(System.IntPtr,System.Int32,Jupiter.MemoryProtection)">
+            <summary>
+            Allocates a region of virtual memory in the remote process
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.AllocateVirtualMemory(System.Int32,Jupiter.MemoryProtection)">
+            <summary>
+            Allocates a region of virtual memory in the remote process
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.FreeVirtualMemory(System.IntPtr)">
+            <summary>
+            Frees a region of virtual memory in the remote process
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.PatternScan(System.IntPtr,System.Byte[])">
+            <summary>
+            Searches the memory of the remote process for the specified pattern
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.PatternScan(System.Byte[])">
+            <summary>
+            Searches the memory of the remote process for the specified pattern
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.PatternScan(System.IntPtr,System.String)">
+            <summary>
+            Searches the memory of the remote process for the specified pattern
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.PatternScan(System.String)">
+            <summary>
+            Searches the memory of the remote process for the specified pattern
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.ProtectVirtualMemory(System.IntPtr,System.Int32,Jupiter.MemoryProtection)">
+            <summary>
+            Changes the protection of a region of virtual memory in the remote process
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.ReadVirtualMemory(System.IntPtr,System.Int32)">
+            <summary>
+            Reads an array of bytes from a region of virtual memory in the remote process
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.ReadVirtualMemory``1(System.IntPtr)">
+            <summary>
+            Reads a structure from a region of virtual memory in the remote process
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.WriteVirtualMemory(System.IntPtr,System.Byte[])">
+            <summary>
+            Writes an array of bytes into a region of virtual memory in the remote process
+            </summary>
+        </member>
+        <member name="M:Jupiter.MemoryModule.WriteVirtualMemory``1(System.IntPtr,``0)">
+            <summary>
+            Writes a structure into a region of virtual memory in the remote process
+            </summary>
+        </member>
+        <member name="T:Jupiter.MemoryProtection">
+            <summary>
+            Defines the protection to be applied to a region of virtual memory
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.ZeroAccess">
+            <summary>
+            Disables all access to the region of virtual memory
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.NoAccess">
+            <summary>
+            Disables all access to the region of virtual memory
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.ReadOnly">
+            <summary>
+            Marks the region of virtual memory as readable
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.ReadWrite">
+            <summary>
+            Marks the region of virtual memory as readable and/or writable
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.WriteCopy">
+            <summary>
+            Marks the region of virtual memory as readable and/or copy on write
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.Execute">
+            <summary>
+            Marks the region of virtual memory as executable
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.ExecuteRead">
+            <summary>
+            Marks the region of virtual memory as readable and/or executable
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.ExecuteReadWrite">
+            <summary>
+            Marks the region of virtual memory as readable, writable and/or executable
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.ExecuteWriteCopy">
+            <summary>
+            Marks the region of virtual memory as readable, copy on write and/or executable
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.Guard">
+            <summary>
+            Marks the region of virtual memory as guarded
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.ReadWriteGuard">
+            <summary>
+            Marks the region of virtual memory as readable, writable and guarded
+            </summary>
+        </member>
+        <member name="F:Jupiter.MemoryProtection.NoCache">
+            <summary>
+            Marks the region of virtual memory as non-cacheable 
+            </summary>
+        </member>
+    </members>
+</doc>
